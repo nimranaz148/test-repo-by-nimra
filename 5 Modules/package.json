@@ -1,0 +1,15 @@
+{
+  "name": "5-modules",
+  "version": "1.0.0",
+  "description": "- create one typescript file. write a code \"const firstNumber = 10\". and export it into main file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
